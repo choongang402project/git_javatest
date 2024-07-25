@@ -7,7 +7,7 @@ public class test {
 			int a= 10;
 			int b= 25;
 			System.out.println(mid);
-			System.out.println("안녕");
+			System.out.println("안녕436");
 	}
 
 }
