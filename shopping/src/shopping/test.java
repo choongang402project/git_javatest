@@ -8,6 +8,7 @@ public class test {
 			int b= 25;
 			System.out.println(mid);
 			System.out.println("안녕");
+			String slf="sdfnaonwo";
 	}
 
 }
