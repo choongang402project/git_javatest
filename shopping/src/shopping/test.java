@@ -9,6 +9,7 @@ public class test {
 			System.out.println(mid);
 			System.out.println("안녕");
 			String slf="sdfnaonwo";
+			System.out.println("한글 깨지는지 테스트");
 	}
 
 }
